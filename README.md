@@ -30,7 +30,7 @@ def circulate():
 l=eval(input())
 n=eval(input())
 ```
-##Output
+## Output
 ![image](https://user-images.githubusercontent.com/121373170/211162142-eccfe46e-5a4b-45f2-9ef3-f90125041e4e.png)
 ## Result:
 Thus the circulate n variables are successfully executed
